@@ -10,8 +10,8 @@ It uses CasperJS (which uses PhantomJS). I wrote (and have only tested) this on 
 
 # Requirements
 
-PhantomJS - http://phantomjs.org/download.html
-CasperJS - http://casperjs.org/
+* PhantomJS - http://phantomjs.org/download.html
+* CasperJS - http://casperjs.org/
 
 Chocolatey is an easy way to install these on Windows. https://chocolatey.org/
 
